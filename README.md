@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tanzida999
 - 👀 I’m interested in html,data structure and algorithms 
-- 🌱 I’m currently Python,Ml 
+- 🌱 I’m currently interested in Python,Ml 
 - 📫 How to reach me: you can send a mail at this mail I'd: nowshinsara999@gmail.com
 
 <!---
