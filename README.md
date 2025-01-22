@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Tanzida999
-- 👀 I’m interested in Machine Learning 
-- 🌱 I’m currently interested in Web development framework.
+- 👋 Hi, I’m Tanzida
+- 🌱 I’m a web Developer.
 - 📫 How to reach me: you can send a mail at this mail I'd: nowshinsara999@gmail.com
 
 <!---
