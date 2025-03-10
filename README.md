@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tanzida
-- 🌱 I’m a web Developer.
+- 🌱 I’m a CS graduate. Passionate about blockchain and full stack web development.
 - 📫 How to reach me: you can send a mail at this mail I'd: nowshinsara999@gmail.com
 
 <!---
